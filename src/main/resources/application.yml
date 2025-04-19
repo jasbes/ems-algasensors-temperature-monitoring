@@ -1,7 +1,7 @@
+server:
+  port: 8082
+  
 spring:
   application:
     name: temperature-monitoring
-
-server:
-  port: 8082
 
